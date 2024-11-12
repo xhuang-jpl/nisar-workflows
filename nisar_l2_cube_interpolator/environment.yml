@@ -1,0 +1,15 @@
+name: nisar_l2_cube
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python
+  - h5py
+  - libgdal-netcdf
+  - gdal
+  - libgdal-hdf5
+  - numpy
+  - scipy
+  - rasterio
+  - pip
